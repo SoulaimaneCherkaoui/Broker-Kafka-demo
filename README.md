@@ -78,3 +78,26 @@ Usage: The stream processor reads from one or more input topics, applies transfo
 
 Access the visualization on http://localhost:8080.
 
+## Docker :
+
+* run .yml file :
+  
+![image](https://github.com/user-attachments/assets/e4dadb4e-af26-4437-88c0-ae4b06e87c3a)
+
+* Consumer/Producer test using kafka containers :
+
+-> Producer : 
+
+![image](https://github.com/user-attachments/assets/95de3e17-029e-4b91-adf5-d2f11bebc4aa)
+
+-> Consumer :
+
+![image](https://github.com/user-attachments/assets/413d3a3a-582a-41c8-b91c-7f735b99d257)
+
+
+
+
+  
+  
+
+
